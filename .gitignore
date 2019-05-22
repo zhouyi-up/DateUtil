@@ -1,0 +1,24 @@
+# maven
+target
+
+# build-time files
+.metadata
+*.class
+*.swp
+*.iws
+tmp.*
+
+# IDE files
+.settings
+.project
+.classpath
+.checkstyle
+maven-eclipse.xml
+*.iml
+.idea
+
+# log
+*.log
+
+# MAC
+.DS_Store
