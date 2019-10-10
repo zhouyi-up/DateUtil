@@ -6,7 +6,9 @@ import java.time.format.DateTimeFormatter;
 /**
  * @author jun
  */
-public class LocalDateTimeUtil {
+public class LocalDateTimeUtils {
+
+    private final static String BASE_FORMAT_STR = "yyyy-MM-dd HH:mm:ss";
 
     /**
      * 支付串格式化为时间实体
